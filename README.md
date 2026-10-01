@@ -1,6 +1,6 @@
 # Sistema de Gestión de Ventas — Supermercado
 
-Proyecto integrador desarrollado para la materia **Base de Datos Aplicadas** en la Universidad Nacional de la Maranza (UNlaM). Sistema completo de gestión de ventas para una cadena de supermercados, implementado íntegramente en **Microsoft SQL Server**.
+Proyecto integrador desarrollado para la materia **Base de Datos Aplicadas** en la Universidad Nacional de la Matanza (UNlaM). Sistema completo de gestión de ventas para una cadena de supermercados, implementado íntegramente en **Microsoft SQL Server**.
 
 ## Descripción
 
